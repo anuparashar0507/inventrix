@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="192" viewBox="0 0 512 192">
+  <defs>
+    <clipPath id="clip-Artboard_14">
+      <rect width="512" height="192"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_14" data-name="Artboard – 14" clip-path="url(#clip-Artboard_14)">
+    <g id="Group_4" data-name="Group 4" transform="translate(22.706 50.893)" style="isolation: isolate">
+      <text id="inventrix" transform="translate(0.294 63.107)" fill="#1290cb" font-size="80" font-family="AzonixRegular, Azonix"><tspan x="0" y="0">inventrix</tspan></text>
+    </g>
+    <line id="Line_20" data-name="Line 20" y1="2" x2="331" transform="translate(28 136)" fill="none" stroke="#1290cb" stroke-width="1"/>
+    <text id="Technologies" transform="translate(377 141)" fill="#1290cb" font-size="13" font-family="AzonixRegular, Azonix"><tspan x="0" y="0">Technologies</tspan></text>
+  </g>
+</svg>
