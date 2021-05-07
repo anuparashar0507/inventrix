@@ -3,7 +3,7 @@ import { Link } from "react-scroll";
  // SCSS
 import './navbar.scss';
 // Assets
-import LogoImg from '../../assets/navbar/logo.svg';
+import LogoImg from '../../assets/navbar/Artboard – 14.svg';
 import MobileMenuIcon from '../../assets/navbar/mobile-menu.svg';
 
 const desktopNav = (props) => (
@@ -11,7 +11,7 @@ const desktopNav = (props) => (
     <div className="wrapper flex-s-between">
       <div>
         <Link to="hero" spy={true} smooth={true} offset={0} duration={500}>
-          <img src={LogoImg} alt="logo" className="pointer" />
+          <img src={LogoImg} alt="logo" className="pointer logo" />
         </Link>
       </div>
       <div className="mobile__menu" onClick={props.mobileMenuOpen}>

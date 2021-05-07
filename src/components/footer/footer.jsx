@@ -3,7 +3,7 @@ import { Row, Col } from "react-flexbox-grid";
 import { Link } from "react-scroll";
 import "./footer.scss";
 
-import Logo from '../../assets/footer/logo.svg';
+import Logo from '../../assets/footer/Artboard – 14.svg';
 import Arrow from '../../assets/footer/arrow.svg';
 
 const partnerBox = () => (
@@ -12,7 +12,7 @@ const partnerBox = () => (
       <Row>
         <Col xs={12} sm={6} md={6}>
           <div className="footer-box">
-            <img src={Logo} alt="logo" />
+            <img src={Logo} className="logo" alt="logo" />
             <p>© 2020 - Inventrix, All Right Reserved</p>
           </div>
         </Col>
