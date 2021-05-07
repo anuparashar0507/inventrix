@@ -9,7 +9,7 @@ import Hero from './components/hero/hero';
 import Portfolio from "./components/portfolio/portfolio";
 import Partners from "./components/partners/partners";
 import About from "./components/about/about";
-import Blog from "./components/blog/blog";
+//import Blog from "./components/blog/blog";
 import Contact from "./components/contact/contact";
 import Footer from "./components/footer/footer";
  
@@ -71,7 +71,6 @@ class App extends React.Component {
         <Portfolio />
         <Partners />
         <About />
-        <Blog />
         <Contact />
         <Footer />
       </div>

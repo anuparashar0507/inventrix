@@ -7,10 +7,9 @@ const about = () => (
     <div>
       <h4 className="font20 weight800">Little About Us</h4>
       <p className="font12 weight500">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        temp orincididunt ut labore et dolore magna aliqua.
+      We're Pationate, Hard Wroking professionals. We Merge imagination and technology to help brands grow in an age of digital transformation. 
       </p>
-      <p className="font12 weight500">Read More</p>
+      <p className="font12 weight500"></p>
     </div>
   </div>
 );

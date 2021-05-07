@@ -3,7 +3,7 @@ import { Row, Col } from "react-flexbox-grid";
 // SCSS
 import "./hero.scss";
 //Assets
-import HeroImage from '../../assets/hero/hero-image.png';
+import HeroImage from '../../assets/hero/heroImg@2x.png';
 //Components
 import Button from '../ui-components/button/button';
 
@@ -18,7 +18,7 @@ const hero = () => (
               We Are a Creative Digital Agency.
             </h1>
             <p className="font12">
-              We're Creative, Hard Working & Born Probelm Solvers.  
+              We're the Creative Digital Agency that'll realise your potential, reimagine your customer experience and reinvent your future - fast.  
             </p>
             <Button label="SEND MESSAGE" target={"contact"} />
           </div>

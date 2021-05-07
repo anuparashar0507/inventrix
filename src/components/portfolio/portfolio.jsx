@@ -5,12 +5,12 @@ import Masonry from "react-masonry-css";
 import "./portfolio.scss";
 //Assets
 import Arrow from "../../assets/portfolio/arrow.svg";
-import Preview1 from "../../assets/portfolio/project01/preview.png";
-import Preview2 from "../../assets/portfolio/project02/preview.png";
-import Preview3 from "../../assets/portfolio/project03/preview.png";
-import Preview4 from "../../assets/portfolio/project04/preview.png";
-import Preview5 from "../../assets/portfolio/project05/preview.png";
-import Preview6 from "../../assets/portfolio/project06/preview.png";
+import Preview1 from "../../assets/portfolio/project01/chartntrade.png";
+import Preview2 from "../../assets/portfolio/project02/Gip.jpg";
+import Preview3 from "../../assets/portfolio/project03/bnpcs.png";
+import Preview4 from "../../assets/portfolio/project04/twos.png";
+import Preview5 from "../../assets/portfolio/project05/11.png";
+import Preview6 from "../../assets/portfolio/project06/msg91.png";
 //Components
 import Button from "../ui-components/button/button";
 import Title from "../ui-components/title/title";
@@ -25,37 +25,37 @@ class Portfolio extends React.Component {
         {
           id: "1",
           preview: Preview1,
-          title: "Lamp",
-          tag: "branding",
+          title: "ChartnTrade",
+          tag: "web",
         },
         {
           id: "2",
           preview: Preview2,
-          title: "Smartwatch",
+          title: "Global insolvancy program",
           tag: "web",
         },
         {
           id: "3",
           preview: Preview3,
-          title: "Speakerphone",
-          tag: "illustrations",
+          title: "BNPCS",
+          tag: "web",
         },
         {
           id: "4",
           preview: Preview4,
-          title: "Sneakers",
+          title: "TwoSapiens.in",
           tag: "web",
         },
         {
           id: "5",
           preview: Preview5,
-          title: "Label",
+          title: "YoungCXO Social Post",
           tag: "illustrations",
         },
         {
           id: "6",
           preview: Preview6,
-          title: "lemons",
+          title: "MSG91 Branding",
           tag: "branding",
         },
       ],

@@ -7,7 +7,7 @@ import ContactInfo from './contactInfo/contactInfo';
 import ContactSocial from './contactInfo/contactSocial';
 import Modal from '../contact-modal/Modal';
 
-import ContactBackground from '../../assets/contact/bg.png';
+import ContactBackground from '../../assets/contact/contactImg@2x.png';
 
 class Contact extends React.Component {
   constructor(props) {
@@ -115,7 +115,7 @@ class Contact extends React.Component {
         <div className="wrapper">
           <Title title="CONTACT US." />
           <p className="font12">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt<br></br>ut labore et dolore magna aliqua.
+          Have a project in mind?<br></br>Let's get to work.
           </p>
 
           <Row className="padding40">
